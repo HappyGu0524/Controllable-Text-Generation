@@ -16,6 +16,6 @@
 #### Parallel text
 
 ### Text signals
-1. **CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION** *Nitish Shirish Keskar, Bryan McCann, Lav R. Varshney, Caiming Xiong, Richard Socher* `arXiv` [[PDF]](https://arxiv.org/pdf/1909.05858.pdf) [[code]](https://github.com/salesforce/ctrl) <details> <summary><mark>model</mark></summary> <p>Style by domain <\p> <p>More complex control codes <\p> <p>Triggering specific tasks <\p> <p>Zero-shot code-mixing <\p> </details>
+1. **CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION** *Nitish Shirish Keskar, Bryan McCann, Lav R. Varshney, Caiming Xiong, Richard Socher* `arXiv` [[PDF]](https://arxiv.org/pdf/1909.05858.pdf) [[code]](https://github.com/salesforce/ctrl) ![](https://img.shields.io/badge/OpenWebText-Generation-orange) <details> <summary><mark>model</mark></summary> <p>Style by domain <p>More complex control codes <p>Triggering specific tasks <p>Zero-shot code-mixing </details>
 2. **A Controllable Model of Grounded Response Generation** *Zeqiu Wu, Michel Galley, Chris Brockett, Yizhe Zhang, Xiang Gao, Chris Quirk, Rik Koncel-Kedziorski, Jianfeng Gao, Hannaneh Hajishirzi, Mari Ostendorf, Bill Dolan* `AAAI21` [[PDF]](https://arxiv.org/pdf/2005.00613.pdf) [[code]]() ![](https://img.shields.io/badge/Reddit%20conversation-Response%20Generation-orange)  <details> <summary><mark>model</mark></summary> <img src="https://github.com/HappyGu0524/pic/blob/master/img/20210406155858.png" width="60%" title="GPT2 with Inductive Attention" align="middle" /> </details>
 
