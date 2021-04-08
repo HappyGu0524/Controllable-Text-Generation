@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Status-building-brightgreen)
 
 ## VAE
-1. **Extracting and composing robust features with denoising autoencoders** *Pascal Vincent, Hugo Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol* `ICML08` [[PDF]](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) ![](https://img.shields.io/badge/DAE-red)
+1. **Extracting and composing robust features with denoising autoencoders** *Pascal Vincent, Hugo Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol* `ICML08` [[PDF]](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) ![](https://img.shields.io/badge/DAE-MLP-red)
 2. **Auto-Encoding Variational Bayes** *Diederik P Kingma, Max Welling* `ICLR14` [[PDF]](https://arxiv.org/pdf/1312.6114.pdf) ![](https://img.shields.io/badge/VAE-RNN-red)
 3. **Generating Sentences from a Continuous Space** *Samuel R. Bowman, Luke Vilnis* `CONLL16` [[PDF]](https://arxiv.org/pdf/1511.06349.pdf) ![](https://img.shields.io/badge/VAE-RNN-red)
 4. **Adversarial Autoencoders** *Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey* `ICLR16` [[PDF]](https://arxiv.org/pdf/1511.05644.pdf) ![](https://img.shields.io/badge/AAE-RNN-red)
