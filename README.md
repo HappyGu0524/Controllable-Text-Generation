@@ -42,5 +42,7 @@
 
 ### Multi-signals
 1. **A Distributional Approach To Controlled Text Generation** *Muhammad Khalifa, Hady Elsahar, Marc Dymetman* `ICLR21` [[PDF]](https://arxiv.org/pdf/2012.11635.pdf) [code] ![](https://img.shields.io/badge/Wikipedia-Controllable%20Generation-orange) <details><summary><mark>model</mark></summary> <img src="https://github.com/HappyGu0524/pic/blob/master/img/20210408164750.png" width="40%" align="middle" title="Energy-Based Model" /> </details> <details> <summary><mark>algorithm</mark></summary> <img src="https://github.com/HappyGu0524/pic/blob/master/img/20210408163917.png" width="60%" align="middle" title="Reward = P(x)/q(x); q initialized with pretrained gpt2; from Energy-Based Model to Autoregressive Policy"/> </details>
-2. **Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes** *Zhiyu Lin, Mark O. Riedl* `arXiv` [[PDF]](https://arxiv.org/pdf/2104.04039.pdf) [code]
+2. **Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes** *Zhiyu Lin, Mark O. Riedl* `arXiv` [[PDF]](https://arxiv.org/pdf/2104.04039.pdf) [code] 
 
+## Evaluation
+1. **Evaluating Style Transfer for Text** *Remi Mir, Bjarke Felbo, Nick Obradovich, Iyad Rahwan* `NAACL19` [[PDF]](https://arxiv.org/pdf/1904.02295.pdf) [[code]](https://github.com/passeul/style-transfer-model-evaluation) ![](https://img.shields.io/badge/EMD-Style%20Transfer-blue)
