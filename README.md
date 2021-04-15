@@ -46,3 +46,6 @@
 
 ## Evaluation
 1. **Evaluating Style Transfer for Text** *Remi Mir, Bjarke Felbo, Nick Obradovich, Iyad Rahwan* `NAACL19` [[PDF]](https://arxiv.org/pdf/1904.02295.pdf) [[code]](https://github.com/passeul/style-transfer-model-evaluation) ![](https://img.shields.io/badge/EMD-Style%20Transfer-blue)
+
+## Benchmark
+1. **StylePTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer** *Yiwei Lyu, Paul Pu Liang, Hai Pham, Eduard Hovy, Barnabás Póczos, Ruslan Salakhutdinov, Louis-Philippe Morency* `NAACL21` [[PDF]](https://arxiv.org/pdf/2104.05196.pdf) [[code]](https://github.com/lvyiwei1/StylePTB/)
