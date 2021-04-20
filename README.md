@@ -49,4 +49,4 @@
 
 ## Benchmark
 1. **StylePTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer** *Yiwei Lyu, Paul Pu Liang, Hai Pham, Eduard Hovy, Barnabás Póczos, Ruslan Salakhutdinov, Louis-Philippe Morency* `NAACL21` [[PDF]](https://arxiv.org/pdf/2104.05196.pdf) [[code]](https://github.com/lvyiwei1/StylePTB/) ![](https://img.shields.io/badge/Controllable%20Generation-purple)
-2. **Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen** *Yixin Cao, Ruihao Shui, Liangming Pan, Min-Yen Kan, Zhiyuan Liu, Tat-Seng Chua* `ACL20` [[PDF]](https://arxiv.org/pdf/2005.00701.pdf) [[code]](https://srhthu.github.io/expertise-style-transfer/) ![](https://img.shields.io/badge/Style%20Transfer-green)
+2. **Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen** *Yixin Cao, Ruihao Shui, Liangming Pan, Min-Yen Kan, Zhiyuan Liu, Tat-Seng Chua* `ACL20` [[PDF]](https://arxiv.org/pdf/2005.00701.pdf) [[code]](https://srhthu.github.io/expertise-style-transfer/) ![](https://img.shields.io/badge/Style%20Transfer-purple)
