@@ -49,6 +49,12 @@
 1. **Plug and Play Language Models: A Simple Approach to Controlled Text Generation** *Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu* `ICLR20` [[PDF]](https://arxiv.org/pdf/1912.02164.pdf) [[code]](https://github.com/uber-research/PPLM)
 2. **GeDi: Generative Discriminator Guided Sequence Generation** *Ben Krause, Akhilesh Deepak Gotmare, Bryan McCann, Nitish Shirish Keskar, Shafiq Joty, Richard Socher, Nazneen Fatema Rajani* `arXiv 2020` [[PDF]](https://arxiv.org/pdf/2009.06367.pdf) [[code]](https://github.com/salesforce/GeDi)
 3. **Directed Beam Search: Plug-and-Play Lexically Constrained Language Generation** *Damian Pascual, Beni Egressy, Florian Bolli, Roger Wattenhofer* `arXiv 2020` [[PDF]](https://arxiv.org/pdf/2012.15416.pdf) [[code]](https://github.com/dapascual/DirectedBeamSearch)
+4. **Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes** *Zhiyu Lin, Mark Riedl* `arXiv 2021` [[PDF]](https://arxiv.org/pdf/2104.04039.pdf) [[code]](https://github.com/xxbidiao/plug-and-blend)
+5. **Plug-and-Play Conversational Models** *Andrea Madotto, Etsuko Ishii, Zhaojiang Lin, Sumanth Dathathri, Pascale Fung* `EMNLP 2020 findings` [[PDF]](https://arxiv.org/pdf/2010.04344.pdf) [[code]](https://github.com/andreamad8/PPCM)
+6. **FUDGE: Controlled Text Generation With Future Discriminators** *Kevin Yang, Dan Klein* `NAACL 2021` [[PDF]](https://arxiv.org/pdf/2104.05218.pdf) [[code]](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation)
+7. **DEXPERTS: On-the-Fly Controlled Text Generation with Experts and Anti-Experts** *Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi* `ACL 2021` [[PDF]](https://arxiv.org/pdf/2105.03023.pdf) [code]
+
+  
   
   
 ## Evaluation
