@@ -48,6 +48,7 @@
 ## Plug-in and Play Framework
 1. **Plug and Play Language Models: A Simple Approach to Controlled Text Generation** *Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu* `ICLR20` [[PDF]](https://arxiv.org/pdf/1912.02164.pdf) [[code]](https://github.com/uber-research/PPLM)
 2. **GeDi: Generative Discriminator Guided Sequence Generation** *Ben Krause, Akhilesh Deepak Gotmare, Bryan McCann, Nitish Shirish Keskar, Shafiq Joty, Richard Socher, Nazneen Fatema Rajani* `arXiv 2020` [[PDF]](https://arxiv.org/pdf/2009.06367.pdf) [[code]](https://github.com/salesforce/GeDi)
+3. **Directed Beam Search: Plug-and-Play Lexically Constrained Language Generation** *Damian Pascual, Beni Egressy, Florian Bolli, Roger Wattenhofer* `arXiv 2020` [[PDF]](https://arxiv.org/pdf/2012.15416.pdf) [[code]](https://github.com/dapascual/DirectedBeamSearch)
   
   
 ## Evaluation
