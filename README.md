@@ -75,6 +75,7 @@
   
 ## Evaluation
 1. **Evaluating Style Transfer for Text** *Remi Mir, Bjarke Felbo, Nick Obradovich, Iyad Rahwan* `NAACL19` [[PDF]](https://arxiv.org/pdf/1904.02295.pdf) [[code]](https://github.com/passeul/style-transfer-model-evaluation) ![](https://img.shields.io/badge/EMD-Style%20Transfer-blue)
+2. **A Review of Human Evaluation for Style Transfer** *Eleftheria Briakou, Sweta Agrawal, Ke Zhang, Joel Tetreault, Marine Carpuat* `GEM20201` [[PDF]](https://arxiv.org/pdf/2106.04747.pdf) [code] ![](https://img.shields.io/badge/Human%20Evaluation-Style%20Transfer-blue)
 
 ## Benchmark
 1. **Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen** *Yixin Cao, Ruihao Shui, Liangming Pan, Min-Yen Kan, Zhiyuan Liu, Tat-Seng Chua* `ACL20` [[PDF]](https://arxiv.org/pdf/2005.00701.pdf) [[code]](https://srhthu.github.io/expertise-style-transfer/) ![](https://img.shields.io/badge/Style%20Transfer-purple)
