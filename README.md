@@ -60,7 +60,7 @@
 11. **Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes** *Zhiyu Lin, Mark Riedl* `arXiv21` [[PDF]](https://arxiv.org/pdf/2104.04039.pdf) [[code]](https://github.com/xxbidiao/plug-and-blend) ![](https://img.shields.io/badge/GPT-Generative%20Classifier-pink)
 12. **Plug-and-Play Conversational Models** *Andrea Madotto, Etsuko Ishii, Zhaojiang Lin, Sumanth Dathathri, Pascale Fung* `EMNLP20 findings` [[PDF]](https://arxiv.org/pdf/2010.04344.pdf) [[code]](https://github.com/andreamad8/PPCM) ![](https://img.shields.io/badge/GPT-Augmentation-pink)
 13. **FUDGE: Controlled Text Generation With Future Discriminators** *Kevin Yang, Dan Klein* `NAACL21` [[PDF]](https://arxiv.org/pdf/2104.05218.pdf) [[code]](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation) ![](https://img.shields.io/badge/GPT-Classifier-pink)
-14. **DEXPERTS: On-the-Fly Controlled Text Generation with Experts and Anti-Experts** *Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi* `ACL21` [[PDF]](https://arxiv.org/pdf/2105.03023.pdf) [code] ![](https://img.shields.io/badge/GPT-Generator-pink)
+14. **DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts** *Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi* `ACL21` [[PDF]](https://arxiv.org/pdf/2105.03023v2.pdf) [code] ![](https://img.shields.io/badge/GPT-Generator-pink)
 15. **Zero-Shot Controlled Generation with Encoder-Decoder Transformers** *Devamanyu Hazarika, Mahdi Namazifar, Dilek Hakkani-Tur* `arXiv21` [[PDF]](https://arxiv.org/pdf/2106.06411.pdf) [code] ![](https://img.shields.io/badge/Transformer-Control%20Knobs-pink)
 
   
