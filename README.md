@@ -52,7 +52,7 @@
 7. **Bridging the Gap Between Training and Inference of Bayesian Controllable Language Models** `arXiv` *Han Liu, Bingning Wang, Ting Yao, Haijin Liang, Jianjin Xu, Xiaolin Hu* [[PDF]](https://arxiv.org/pdf/2206.05519.pdf)
 8. **Classifiers are Better Experts for Controllable Text Generation** `arXiv` *Askhat Sitdikov, Nikita Balagansky, Daniil Gavrilov, Alexander Markov* [[PDF]](https://arxiv.org/pdf/2205.07276.pdf)
 9. **Gamma Sampling: Fine-grained Controlling Language Models without Training** `arXiv` *Shangda Wu, Maosong Sun* [[PDF]](https://arxiv.org/pdf/2205.06036.pdf)
-10. **Controllable Text Generation with Neurally-Decomposed Oracle** `arXiv` *Tao Meng, Sidi Lu, Nanyun Peng, Kai-Wei Chang* [[PDF]](https://arxiv.org/pdf/2205.14219.pdf)
+10. **Controllable Text Generation with Neurally-Decomposed Oracle** `NeurIPS22` *Tao Meng, Sidi Lu, Nanyun Peng, Kai-Wei Chang* [[PDF]](https://arxiv.org/pdf/2205.14219.pdf)
 
 ### Multi-Objective Optimization
 1. **Controlled Text Generation as Continuous Optimization with Multiple Constraints** `NeurIPS21` *Sachin Kumar, Eric Malmi, Aliaksei Severyn, Yulia Tsvetkov* [[PDF]](https://arxiv.org/pdf/2108.01850.pdf)
@@ -66,6 +66,7 @@
 2. **Controllable Natural Language Generation with Contrastive Prefixes** `ACL22 findings` *Jing Qian, Li Dong, Yelong Shen, Furu Wei, Weizhu Chen* [[PDF]](https://arxiv.org/pdf/2202.13257.pdf)
 3. **Fine-Grained Controllable Text Generation Using Non-Residual Prompting** `ACL22` *Fredrik Carlsson, Joey Öhman, Fangyu Liu, Severine Verlinden, Joakim Nivre, Magnus Sahlgren* [[PDF]](https://aclanthology.org/2022.acl-long.471.pdf)
 4. **Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation** `arXiv` *Kexin Yang, Dayiheng Liu, Wenqiang Lei, Baosong Yang, Mingfeng Xue, Boxing Chen, Jun Xie* [[PDF]](https://arxiv.org/pdf/2204.13362.pdf)
+5. **Quark: Controllable Text Generation with Reinforced [Un]learning** `NeurIPS22` *Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, Yejin Choi* [[PDF]](https://arxiv.org/pdf/2205.13636.pdf)
 
 
 
