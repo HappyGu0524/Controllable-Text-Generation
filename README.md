@@ -28,9 +28,47 @@
 7. **Continuous Language Generative Flow** `ACL21` *Zineng Tang, Shiyue Zhang, Hyounghun Kim, Mohit Bansal* [[PDF]](https://aclanthology.org/2021.acl-long.355.pdf) [[code]](https://github.com/zinengtang/ContinuousFlowNLG)
 
 ### Denoising Diffusion Model
-1. 
+1. **Deep Unsupervised Learning using Nonequilibrium Thermodynamics** `ICML15` *Jascha Sohl-Dickstein, Eric Weiss, Niru Maheswaranathan, Surya Ganguli* [[PDF]](https://arxiv.org/pdf/1503.03585.pdf)
+2. **Generative Modeling by Estimating Gradients of the Data Distribution** `NeurIPS19` *Yang Song, Stefano Ermon* [[PDF]](https://proceedings.neurips.cc/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf)
+3. **Improved Techniques for Training Score-Based Generative Models** `NeurIPS20` *Yang Song, Stefano Ermon* [[PDF]](https://proceedings.neurips.cc/paper/2020/file/92c3b916311a5517d9290576e3ea37ad-Paper.pdf)
+4. **Denoising Diffusion Probabilistic Models** `NeurIPS20` *Jonathan Ho, Ajay Jain, Pieter Abbeel* [[PDF]](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) [[code]](https://github.com/hojonathanho/diffusion)
+5. **Diffusion Models Beat GANs on Image Synthesis** `NeurIPS21` *Prafulla Dhariwal, Alex Nichol* [[PDF]](https://proceedings.neurips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf)
+6. **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models** `arXiv` *Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen* [[PDF]](https://arxiv.org/pdf/2112.10741.pdf)
+7. **Diffusion-LM Improves Controllable Text Generation** `NeurIPS22` *Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto* [[PDF]](https://arxiv.org/pdf/2205.14217.pdf) [[code]](https://github.com/XiangLi1999/Diffusion-LM)
 
 ### Language Model
+* BERT, GPT, T5, BART, ...
+
+
+## Control with Fixed Language Model
+
+### Weighted Decoding
+1. **Plug and Play Language Models: A Simple Approach to Controlled Text Generation** *Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu* `ICLR20` [[PDF]](https://arxiv.org/pdf/1912.02164.pdf) [[code]](https://github.com/uber-research/PPLM)
+2. **FUDGE: Controlled Text Generation With Future Discriminators** *Kevin Yang, Dan Klein* `NAACL21` [[PDF]](https://arxiv.org/pdf/2104.05218.pdf) [[code]](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation)
+3. **GeDi: Generative Discriminator Guided Sequence Generation** *Ben Krause, Akhilesh Deepak Gotmare, Bryan McCann, Nitish Shirish Keskar, Shafiq Joty, Richard Socher, Nazneen Fatema Rajani* `EMNLP21 findings` [[PDF]](https://arxiv.org/pdf/2009.06367.pdf) [[code]](https://github.com/salesforce/GeDi)
+4. **DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts** *Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi* `ACL21` [[PDF]](https://arxiv.org/pdf/2105.03023v2.pdf) [code] ![](https://img.shields.io/badge/GPT-Generator-pink)
+5. **Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes** *Zhiyu Lin, Mark Riedl* `arXiv21` [[PDF]](https://arxiv.org/pdf/2104.04039.pdf) [[code]](https://github.com/xxbidiao/plug-and-blend)
+6. **Improving Controllable Text Generation with Position-Aware Weighted Decoding** `ACL22 findings` *Yuxuan Gu, Xiaocheng Feng, Sicheng Ma, Jiaming Wu, Heng Gong, Bing Qin* [[PDF]](https://aclanthology.org/2022.findings-acl.272.pdf)
+7. **Bridging the Gap Between Training and Inference of Bayesian Controllable Language Models** `arXiv` *Han Liu, Bingning Wang, Ting Yao, Haijin Liang, Jianjin Xu, Xiaolin Hu* [[PDF]](https://arxiv.org/pdf/2206.05519.pdf)
+8. **Classifiers are Better Experts for Controllable Text Generation** `arXiv` *Askhat Sitdikov, Nikita Balagansky, Daniil Gavrilov, Alexander Markov* [[PDF]](https://arxiv.org/pdf/2205.07276.pdf)
+9. **Gamma Sampling: Fine-grained Controlling Language Models without Training** `arXiv` *Shangda Wu, Maosong Sun* [[PDF]](https://arxiv.org/pdf/2205.06036.pdf)
+10. **Controllable Text Generation with Neurally-Decomposed Oracle** `arXiv` *Tao Meng, Sidi Lu, Nanyun Peng, Kai-Wei Chang* [[PDF]](https://arxiv.org/pdf/2205.14219.pdf)
+
+### Multi-Objective Optimization
+1. **Controlled Text Generation as Continuous Optimization with Multiple Constraints** `NeurIPS21` *Sachin Kumar, Eric Malmi, Aliaksei Severyn, Yulia Tsvetkov* [[PDF]](https://arxiv.org/pdf/2108.01850.pdf)
+2. **Mix and Match: Learning-free Controllable Text Generation using Energy Language Models** `ACL22` *Fatemehsadat Mireshghallah, Kartik Goyal, Taylor Berg-Kirkpatrick* [[PDF]](https://arxiv.org/pdf/2203.13299.pdf)
+3. **COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics** `arXiv` *Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi* [[PDF]](https://arxiv.org/pdf/2202.11705.pdf)
+4. **Constrained Sampling from Language Models via Langevin Dynamics in Embedding Spaces** `arXiv` *Sachin Kumar, Biswajit Paria, Yulia Tsvetkov* [[PDF]](https://arxiv.org/pdf/2205.12558.pdf)
+5. **Composable Text Controls in Latent Space with ODEs** `arXiv` *Guangyi Liu, Zeyu Feng, Yuan Gao, Zichao Yang, Xiaodan Liang, Junwei Bao, Xiaodong He, Shuguang Cui, Zhen Li, Zhiting Hu* [[PDF]](https://arxiv.org/pdf/2208.00638.pdf)
+
+### Prefix-Tuning
+1. **Attribute Alignment: Controlling Text Generation from Pre-trained Language Models** `EMNLP21 findings` *Dian Yu, Zhou Yu, Kenji Sagae* [[PDF]](https://arxiv.org/pdf/2103.11070.pdf)
+2. **Controllable Natural Language Generation with Contrastive Prefixes** `ACL22 findings` *Jing Qian, Li Dong, Yelong Shen, Furu Wei, Weizhu Chen* [[PDF]](https://arxiv.org/pdf/2202.13257.pdf)
+3. **Fine-Grained Controllable Text Generation Using Non-Residual Prompting** `ACL22` *Fredrik Carlsson, Joey Öhman, Fangyu Liu, Severine Verlinden, Joakim Nivre, Magnus Sahlgren* [[PDF]](https://aclanthology.org/2022.acl-long.471.pdf)
+4. **Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation** `arXiv` *Kexin Yang, Dayiheng Liu, Wenqiang Lei, Baosong Yang, Mingfeng Xue, Boxing Chen, Jun Xie* [[PDF]](https://arxiv.org/pdf/2204.13362.pdf)
+
+
+
 
 
 ## Controlling information
