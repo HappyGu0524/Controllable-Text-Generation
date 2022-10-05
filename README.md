@@ -40,7 +40,7 @@
 * BERT, GPT, T5, BART, ...
 
 
-## Control with Fixed Language Model
+## Control with Fixed Language Model > Updated to Oct 5, 2022
 
 ### Weighted Decoding
 1. **Plug and Play Language Models: A Simple Approach to Controlled Text Generation** *Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu* `ICLR20` [[PDF]](https://arxiv.org/pdf/1912.02164.pdf) [[code]](https://github.com/uber-research/PPLM)
